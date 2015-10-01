@@ -1,0 +1,14 @@
+#Please dont remove any below items
+[MAIN]
+ConfDir= C:\Alok\workspace\VehicleSupplyChain\conf 
+AppConfigFile=AppConfig.file
+
+[TRACE]
+TraceLevel=3
+LogDir=C:\Alok\workspace\VehicleSupplyChain\log
+LogFile=AppLog.log
+LogToConsole=true
+
+[ERROR]
+LogErrorDir=C:\Alok\workspace\VehicleSupplyChain\log
+LogErrorFile=AppError.log 

@@ -1,0 +1,7 @@
+[FACTORY]
+CarProdPerHour=120
+BykeProdPerHour=220
+TruckProdPerHour=180
+
+[VEHICLE]
+
